@@ -1,4 +1,4 @@
 # apnaCollege-demo
 This is my first repository.
-<hr>
+<br>
 Author - Arpit Singh
